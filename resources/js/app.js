@@ -48,7 +48,7 @@ const router = new VueRouter({
             component: App,
             children:[
                 {
-                    path:'apply-2564',
+                    path:'',
                     component: Home
                 }
             ]
